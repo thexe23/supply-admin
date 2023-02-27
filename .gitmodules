@@ -1,0 +1,3 @@
+[submodule "supply-ui"]
+	path = supply-ui
+	url = git@github.com:Harlan-Suen/supply-ui.git
